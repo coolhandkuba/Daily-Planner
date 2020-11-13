@@ -11,3 +11,6 @@ The daily planner is done by work hours (8AM - 6PM).
 You can save an event in each hour and it will be saved until you click "clear" for that given time. 
 
 This planner utilizes moment.js for time formatting 
+
+https://coolhandkuba.github.io/Daily-Planner/
+
